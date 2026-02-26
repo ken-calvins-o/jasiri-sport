@@ -1,6 +1,12 @@
 # Jasiri – Africa's Sports Community & Data Platform
 
-A beautiful, fully functional SaaS landing page built with Next.js 14+, TypeScript, Tailwind CSS, and shadcn/ui.
+A beautiful, fully functional SaaS landing page built with Next.js, TypeScript, Tailwind CSS, and shadcn/ui.
+
+## 🌍 Live Site
+
+**[https://ken-calvins-o.github.io/jasiri-sport/](https://ken-calvins-o.github.io/jasiri-sport/)**
+
+> The site is automatically deployed to GitHub Pages on every push to `main` via the workflow in `.github/workflows/deploy.yml`.
 
 ## Getting Started
 
