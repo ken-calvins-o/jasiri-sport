@@ -1,0 +1,2 @@
+:HL["/jasiri-sport/_next/static/chunks/b5633731724b8bd4.css","style"]
+0:{"buildId":"SG_tn0sQcZVWug52KIcY7","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
